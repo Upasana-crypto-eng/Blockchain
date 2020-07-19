@@ -1,0 +1,13 @@
+1. Blockchain a decentralized and cryptographic technology which helps the community to see the actual data with the eradication of the middleman , in other words it is a constantly growing ledger which keeps the record of all the permanent records taken place in a secure, chronological , immutable manner .
+
+2. The core problem which blockchain is trying to solve is the eradication of the middleman by providing more security , authenticity and by making the datas visible and available for everyone.
+
+3. The features provided by the blockchain are:
+a.Verifiabilty
+b.Security and authenticity 
+c.Tamper proofness
+d. Immutibility
+
+4.The things which a block contains are datas in a peer to peer connection and all the computers shares the same data , the genesis is said to be the first peer and with every passage of datas through verifies and unique fingerprint of each and every datas.
+
+5.Verifibilty of blockchain can be achieved the use of fingerprints which has different fingerprints associated with it hence it authenticated and secured.
